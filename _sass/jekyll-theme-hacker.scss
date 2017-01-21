@@ -12,6 +12,15 @@ body {
 
 /* General & 'Reset' Stuff */
 
+#header {
+    max-width: 100%;
+    position: fixed;
+    padding: 3%;
+    box-sizing: border-box;
+    width: 20%;
+}
+
+
 .container {
   width: 90%;
   max-width: 600px;
